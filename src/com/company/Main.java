@@ -44,5 +44,6 @@ public class Main {
         double z = in.nextDouble();
         double z4 = Math.pow(z, 4);
         System.out.println(x4 + 4*x*y*y - 4*y*z + z4);
+        System.out.println("Hello");
     }
 }
